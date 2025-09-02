@@ -2,7 +2,7 @@
   <v-app style="background: rgba(0,0,0,0);">
     <div id="web_bg" :style="'background-image: url(' + imgUrl + ');'"></div>
     <v-app-bar app color="rgba(0,0,0,.2)" dark flat fixed>
-      <v-toolbar-title>Life In NJU</v-toolbar-title>
+      <v-toolbar-title>Life In HUEL</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-icon
         @click="open('https://github.com/idealclover/Life-in-NJU')"

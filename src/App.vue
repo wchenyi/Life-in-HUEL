@@ -127,7 +127,7 @@
         class="text-center white--text"
         style="background-color: rgba(0,0,0,.2); flex: 0 1 auto"
         cols="12"
-        >祝南哪 120 周年生日快乐！<br />
+        >在河财要开开心心！<br />
         ©{{ new Date().getFullYear() }}
         <a
           href="https://idealclover.top"
@@ -216,8 +216,8 @@ export default {
       nativeShare.setShareData({
         icon: "https://nju.today/img/icons/android-chrome-192x192.png",
         link: "https://nju.today",
-        title: "南哪指南",
-        desc: "南哪人的专属导航页！",
+        title: "河财指南",
+        desc: "河财人的专属导航页！",
         from: "@idealclover"
       });
 

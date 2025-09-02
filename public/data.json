@@ -18,6 +18,11 @@
                 "description": "看看啥时候放假吧"                
             },
             {
+                "name": "🧭大学生生活质量指北",
+                "link": "https://colleges.chat/",
+                "description": "开源项目，全国各地高校真实情况收集"                
+            },
+            {
                 "name": "🏫学部书院",
                 "link": "https://www.huel.edu.cn/jgsz.htm#a3",
                 "description": "书院、学部信息查询"                
@@ -46,12 +51,32 @@
                 "name": "🗃️档案馆",
                 "link": "https://dag.huel.edu.cn/",
                 "description": "查校史、查档案等都在这里"
+            },
+            {
+                "name": "💰助学贷款",
+                "link": "https://sls.cdb.com.cn/#/login",
+                "description": "国家开发银行助学贷款网址"
+            },
+            {
+                "name": "🗃️智慧团建",
+                "link": "https://zhtj.youth.cn/zhtj/",
+                "description": "团关系、团课等管理"
             }
         ]
     },
     {
         "title": "📂学院教务",
         "items": [
+            {
+                "name": "🔗学信网",
+                "link": "https://account.chsi.com.cn/",
+                "description": "学籍信息管理平台"
+            },
+            {
+                "name": "🔗研招网",
+                "link": "https://yz.chsi.com.cn/",
+                "description": "考研信息网站"
+            },
             {
                 "name": "🏢教务部",
                 "link": "https://jw.huel.edu.cn/index.htm",
@@ -153,49 +178,49 @@
         "title": "💯资格考试",
         "items": [
             {
-                "name": "南大APP",
-                "link": "https://oi.nju.edu.cn/21607/list.htm",
-                "description": "新版南大APP，集成各类常用功能"
+                "name": "💯全能搜题",
+                "link": "https://so.jszkk.com/",
+                "description": "学习用的"
             },
             {
-                "name": "南大邮箱",
-                "link": "https://mail.smail.nju.edu.cn/",
-                "description": "全日制学生人手一个，可以用来薅免费教育版软件、教育优惠"
+                "name": "💯英语四六级考试",
+                "link": "https://cet.neea.edu.cn/",
+                "description": "考个六级试试"
             },
             {
-                "name": "VPN客户端",
-                "link": "https://vpn.nju.edu.cn/",
-                "description": "VPN客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "💯教师资格考试",
+                "link": "https://ntce.neea.edu.cn/",
+                "description": "V我要当老师"
             },
             {
-                "name": "VPN网页版",
-                "link": "https://vpn3.nju.edu.cn/",
-                "description": "无需下载客户端，可以访问只有校园网才能访问的全部资源"
+                "name": "💯计算机等级考试",
+                "link": "https://ncre.neea.edu.cn/",
+                "description": "办公、编程技能还是要学的"
             },
             {
-                "name": "正版软件",
-                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
-                "description": "学校购买的常用正版系统和软件"
+                "name": "💯托福考试",
+                "link": "https://toefl-main.neea.cn/",
+                "description": "留学专用英语考试"
             },
             {
-                "name": "邮箱别名",
-                "link": "http://mailm.nju.edu.cn:8080",
-                "description": "学生邮箱一堆数字看起来一点也不时髦？试试这个"
+                "name": "💯雅思考试",
+                "link": "https://ielts-main.neea.cn/",
+                "description": "留学专用英语考试"
             },
             {
-                "name": "Eduroam",
-                "link": "https://itsc.nju.edu.cn/21436/list.htm",
-                "description": "全球教育科研机构无线网络漫游"
+                "name": "💯普通话考试",
+                "link": "http://cltt.org/#/webHome",
+                "description": "说好普通话很重要"
             },
             {
-                "name": "校园卡网络自助服务系统",
-                "link": "https://oa.nju.edu.cn/ecard/",
-                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
+                "name": "💯法考",
+                "link": "https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/",
+                "description": "法律人学起来"
             },
             {
-                "name": "e-Science中心",
-                "link": "https://sci.nju.edu.cn/",
-                "description": "南大云盘、镜像、git、测速等服务"
+                "name": "💯注会考试",
+                "link": "https://www.cicpa.org.cn/ztzl1/exam/",
+                "description": "财会人学起来"
             }
         ]
     },

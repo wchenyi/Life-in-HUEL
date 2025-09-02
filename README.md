@@ -1,8 +1,8 @@
-# 南哪指南 Life-in-NJU
+# 河财指南 Life-in-HUEL
 
 > 🏠 这儿就是咱的家了
 
-南哪人的专属主页
+河财人的专属主页
 
 ![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/1.png)
 
@@ -35,3 +35,14 @@ yarn build
 ## LICENSE
 
 MIT
+
+## 其他修改
+- 修改title在public/index.html
+- 修改图标在public/
+- 修改背景图在assets/background
+- 修改readme文件的图片中public/screenshots
+- 修改pwa应用名称中./vue.config.js
+- 修改界面边栏在src/App.vue
+- 修改导航在src/App.vue
+- 如遇到背景图片不显示---App.vue文件出错
+- 替换标签图标在src/App.vue第218行，是网页格式

@@ -1,166 +1,156 @@
 [
     {
-        "title": "萌新必读",
+        "title": "🧭萌新指南",
         "items": [
             {
-                "name": "新生必看",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ecpz8l",
-                "description": "看了这些基本不用到处问人了"
+                "name": "🏠学校官网",
+                "link": "https://www.huel.edu.cn/",
+                "description": "学校官网，这个很好找"
             },
             {
-                "name": "统一身份认证",
-                "link": "https://authserver.nju.edu.cn/authserver/login",
-                "description": "初始账户学工号，初始密码身份证（全部或后6位）"
+                "name": "🧩共享图库",
+                "link": "https://image.huel.edu.cn/#/",
+                "description": "学校的云共享图库，可以上传或查看校园风景"
             },
             {
-                "name": "校园网登录",
-                "link": "http://p.nju.edu.cn",
-                "description": "初始账户学工号，初始密码身份证（全部）"
+                "name": "📅校历查询",
+                "link": "https://jw.huel.edu.cn/xxnl.htm",
+                "description": "看看啥时候放假吧"                
             },
             {
-                "name": "公众号目录",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/chfp1l",
-                "description": "哦我的上帝啊，你毕业都不一定关注全了"
+                "name": "🏫学部书院",
+                "link": "https://www.huel.edu.cn/jgsz.htm#a3",
+                "description": "书院、学部信息查询"                
+            },
+            {
+                "name": "🔗本科生招生",
+                "link": "https://zs.huel.edu.cn/",
+                "description": "本科生招生信息查询"
+            },
+            {
+                "name": "🔗研究生招生",
+                "link": "https://yjs.huel.edu.cn/",
+                "description": "考河财研究生信息内容网"
+            },
+            {
+                "name": "🎉数字迎新系统",
+                "link": "https://new.huel.edu.cn/yxxt/web/xsLogin/login.zf",
+                "description": "快来完善个人信息，选宿舍吧"
+            },
+            {
+                "name": "🪴博物馆",
+                "link": "https://bwg.huel.edu.cn/",
+                "description": "咱们学校的博物馆还是不错的，还有文创哦"
+            },
+            {
+                "name": "🗃️档案馆",
+                "link": "https://dag.huel.edu.cn/",
+                "description": "查校史、查档案等都在这里"
             }
         ]
     },
     {
-        "title": "校园生活",
+        "title": "📂学院教务",
         "items": [
             {
-                "name": "衣食住行",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/nbmig7",
-                "description": "杂七杂八的生活服务"
+                "name": "🏢教务部",
+                "link": "https://jw.huel.edu.cn/index.htm",
+                "description": "校园教务部网站"
             },
             {
-                "name": "医疗相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/rs2gzq",
-                "description": "身体健康第一位~"
+                "name": "💰财务处",
+                "link": "http://cwcsf.huel.edu.cn/xysf/",
+                "description": "缴费有关的信息都在这里"                
             },
             {
-                "name": "实用服务",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/pydwn1",
-                "description": "各种学生组织的实用服务"
+                "name": "🔗教务系统",
+                "link": "https://xk.huel.edu.cn/jwglxt/xtgl/login_slogin.html",
+                "description": "本科生教务系统"
             },
             {
-                "name": "社团实践",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/osy13s",
-                "description": "社团、志愿、就业、创业相关"
+                "name": "🤵统一身份认证平台",
+                "link": "https://info.huel.edu.cn/zfca/login",
+                "description": "数字化校园信息门户"
             },
             {
-                "name": "宿舍相关",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/bau88f",
-                "description": "联系宿管、调宿事宜"
+                "name": "📢校园通知",
+                "link": "https://www.huel.edu.cn/index/tzgg2.htm",
+                "description": "通知学校内各种大小事情"
             },
             {
-                "name": "校园服务",
-                "link": "https://www.nju.edu.cn/3688/list.htm",
-                "description": "南大校历、各单位电话黄页"
+                "name": "🛠️云后勤",
+                "link": "http://49.122.0.187/Hall/",
+                "description": "网上保修、校车、校历等服务"
             },
             {
-                "name": "本科学工通讯录",
-                "link": "https://xgc.nju.edu.cn/1799/list.htm",
-                "description": "实在不行问问辅导员"
+                "name": "🔗信息化管理中心",
+                "link": "https://cac.huel.edu.cn/",
+                "description": "校园在线信息网络服务网站"
             },
             {
-                "name": "小百合 BBS",
-                "link": "http://bbs.nju.edu.cn/",
-                "description": "求职信息、校长信箱比较有用"
+                "name": "🎁正版软件服务",
+                "link": "https://ms.huel.edu.cn/",
+                "description": "支持正版软件"
             },
             {
-                "name": "学生服务",
-                "link": "http://xsgl.nju.edu.cn",
-                "description": "奖学金、勤工俭学等常用网站"
+                "name": "🚪数字离校",
+                "link": "http://49.122.0.35/lxxt/lxgl/zzfw/index/index.html",
+                "description": "走了网上说一声就行"
             },
             {
-                "name": "证件办理",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ubnps4",
-                "description": "校园卡、学生证、研究生证等（补）办理"
+                "name": "🧑‍🎓师生信息服务平台",
+                "link": "https://cac.huel.edu.cn/ssfw.htm",
+                "description": "一卡通、校园OA、邮箱等使用说明"
             },
             {
-                "name": "户籍管理",
-                "link": "https://bwc.nju.edu.cn/bszn/bmfw/index.html",
-                "description": "管理户口迁移等等事务"
+                "name": "💼协同办公系统",
+                "link": "https://oa.huel.edu.cn/wui/index.html#/?logintype=1&time=1756831430033&_key=m1j3ao",
+                "description": "高效协同办公系统"
+            },
+            {
+                "name": "💌校园邮箱",
+                "link": "http://mail.stu.huel.edu.cn/",
+                "description": "学生端的高校教育邮箱"
             }
         ]
     },
     {
-        "title": "学习科研",
+        "title": "🔬学习科研",
         "items": [
             {
-                "name": "教务系统",
-                "link": "http://elite.nju.edu.cn/jiaowu/",
-                "description": "密码是大小写字母加数字"
+                "name": "📃知网管理系统",
+                "link": "https://check.cnki.net/pmlc/",
+                "description": "论文管理系统"
             },
             {
-                "name": "研究生学籍与教学管理系统",
-                "link": "http://pyb.nju.edu.cn/",
-                "description": "研究生版教务系统"
+                "name": "📄学术动态",
+                "link": "https://www.huel.edu.cn/xsdt/xsdt.htm",
+                "description": "校园学术新闻查询"
             },
             {
-                "name": "图书馆纸本检索",
-                "link": "http://opac.nju.edu.cn/#/Home",
-                "description": "快看看你想看的书它有没有、在哪找"
+                "name": "🧑‍🎓在线课堂",
+                "link": "http://huel.fy.chaoxing.com/portal",
+                "description": "学校的超星在线课堂"
             },
             {
-                "name": "图书馆指南",
-                "link": "http://mooc1.chaoxing.com/zt/200026884.html",
-                "description": "图书馆出品的新生指南"
+                "name": "📚图书馆",
+                "link": "https://lib.huel.edu.cn/",
+                "description": "什么叫最大的单体图书馆😍"
             },
             {
-                "name": "图书馆服务",
-                "link": "http://lib.nju.edu.cn/index.htm#Page3",
-                "description": "图书馆热门服务"
+                "name": "🎮图书馆闯关游戏",
+                "link": "http://hncjzfdxfive.zxhnzq.com/",
+                "description": "一个了解图书馆结构的闯关小游戏"
             },
             {
-                "name": "图书馆电子资源",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/fmd1wl",
-                "description": "各类数据库、学术杂志免费下载"
-            },
-            {
-                "name": "研讨间预约",
-                "link": "http://lib.nju.edu.cn/rmfw/sbfw/yjxjyy.htm",
-                "description": "（需要校园网）在图书馆研讨间愉快地讨（wan）论（shua）"
-            },
-            {
-                "name": "课程网站",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/sr0kbw",
-                "description": "各种课要用的网站，还有经典悦读电子书"
-            },
-            {
-                "name": "培养课表",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/ysdgpd",
-                "description": "课表、培养计划、拔尖计划等"
-            },
-            {
-                "name": "交换生系统",
-                "link": "http://elite.nju.edu.cn/exchangesystem/",
-                "description": "本科阶段交流生和访问学生的一些信息"
-            },
-            {
-                "name": "国际交流合作处",
-                "link": "http://stuex.nju.edu.cn/",
-                "description": "交流交换的项目信息"
-            },
-            {
-                "name": "高性能计算中心",
-                "link": "https://hpc.nju.edu.cn/",
-                "description": "电脑不够算，快找HPC"
-            },
-            {
-                "name": "免费电子书",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/zpmza8",
-                "description": "各种电子教材或读物下载的小合集"
-            },
-            {
-                "name": "网站镜像",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/uw70mr",
-                "description": "一些不存在的网站的镜像"
+                "name": "🔗校外访问",
+                "link": "https://lib.huel.edu.cn/node/458.jspx",
+                "description": "校外网VPN、高校共享资源库"
             }
         ]
     },
     {
-        "title": "信息服务",
+        "title": "💯资格考试",
         "items": [
             {
                 "name": "南大APP",
